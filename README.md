@@ -4,7 +4,7 @@ A comprehensive implementation of RNN-based models for predicting technology sto
 
 ## Project Description
 
-This project explores the application of recurrent neural networks for time series forecasting in financial markets. We analyze 12 years of historical stock data from four major technology companies and build predictive models using Simple RNN, LSTM, and GRU architectures.
+This project explores the application of recurrent neural networks for time series forecasting in financial markets. We analyze historical stock data from four major technology companies and build predictive models using Simple RNN, LSTM, and GRU architectures.
 
 ## Dataset Information
 
