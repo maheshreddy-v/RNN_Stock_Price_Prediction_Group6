@@ -72,11 +72,11 @@ Systematic grid search across:
 
 ### Single-Stock Prediction (AMZN)
 
-| Model | Configuration | Test MAE | Test RMSE | MAPE |
-|-------|--------------|----------|-----------|------|
-| Simple RNN | [40], dropout=0.0 | $XXX.XX | $XXX.XX | XX.X% |
-| LSTM | [80], dropout=0.2 | $XXX.XX | $XXX.XX | XX.X% |
-| GRU | [80, 40], dropout=0.0 | $XXX.XX | $XXX.XX | XX.X% |
+| Model | Configuration |
+|-------|--------------|
+| Simple RNN | [40], dropout=0.0 |
+| LSTM | [80], dropout=0.2 |
+| GRU | [80, 40], dropout=0.0 |
 
 ### Multi-Stock Prediction
 
